@@ -1,6 +1,6 @@
 <!--
-																								
-																		
+									
+				v0.0131: #1 Version file to /
 				v0.013: #1 Version file to src/main/webapp
 				v0.012: #1 Version to separate file
 				v0.011: #1 Version automatic update
