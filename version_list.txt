@@ -1,6 +1,7 @@
 <!--
-																								
-																				
+																							
+	
+				v0.01327: #1 wiki automatic update pt.VIII - updated always first
 				v0.01326: #1 wiki automatic update pt.VII
 				v0.01325: #1 wiki automatic update pt.VI
 				v0.01324: #1 wiki automatic update pt.V
